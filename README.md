@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sai jeevan guntamadugu
+ 👋 Hi, I’m @sai jeevan guntamadugu
 - 👀 I’m interested in cloud 
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps Projects
